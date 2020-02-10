@@ -34,9 +34,6 @@ ro.xiaomi.bl.notify=1
 
 #property for liblight to get dc backlight threshold
 persist.displayfeature.dc_backlight.threshold=610
-
-#support LLM2.0 feature
-ro.vendor.radio.llm=true
 #
 # from device/xiaomi/sm8150_common/common_ro.prop
 #
